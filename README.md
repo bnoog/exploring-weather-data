@@ -15,5 +15,3 @@ In order to run the notebook, you'll need to install:
 - Jupyter (notebook or lab)
 - Pandas
 - Matplotlib
-
-This notebook will not be maintained.
